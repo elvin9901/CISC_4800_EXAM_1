@@ -1,0 +1,38 @@
+h1{
+  font-style:normal;
+  font-family:inherit;
+  text-align: center;
+  font-weight:lighter;
+  margin: 1px;
+
+}
+h3{
+  font-style:normal;
+  font-weight: lighter;
+  padding: 10px;
+
+}
+
+.images {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 20px;
+
+}
+.required {
+  margin-left:100px;
+
+
+}
+.focus{
+  margin-left: 100px;
+}
+table, th, td {
+    border:1px solid black;
+}
+.center {
+  margin-left:100px;
+  margin-right: 100px;
+}
